@@ -1,0 +1,1 @@
+# springms-config-server
